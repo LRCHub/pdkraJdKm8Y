@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ラストソング",
+  "base_artist": "Kazunari Ninomiya",
+  "createdAt": "2026-02-20T04:47:05.720364Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラストソング",
+      "artist": "lyrical school",
+      "has_synced": false,
+      "path": "select/01_ラストソング_lyrical_school.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラストソング",
+      "artist": "PAGE",
+      "has_synced": true,
+      "path": "select/02_ラストソング_PAGE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストソング",
+      "artist": "二宮和也",
+      "has_synced": false,
+      "path": "select/pl_01_ラストソング_二宮和也.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ラストソング",
+      "artist": "二宮和也",
+      "has_synced": false,
+      "path": "select/pl_02_ラストソング_二宮和也.txt"
+    }
+  ]
+}
